@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeBaseBoilerplate'
+
+include ':app'
